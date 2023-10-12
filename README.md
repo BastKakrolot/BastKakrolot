@@ -60,19 +60,21 @@
 
 ## 2022.02 - present 前端工程师/研发中心/大前端组
 
-#### `react` `ahooks` `Umi` `Antd` `Css-Module` `JSX` ...
 
 - 负责组内公共组件开发建设工作（可编辑表格等，虚拟列表，可拖动列，）
 - 负责组内项目维护，底层逻辑优化，比如开发中途添加主题功
 - 负责组内成员任务分配 & CodeReview 工作
 - 维护组内代码规范，持续输出项目文档
 
+#### `react` `ahooks` `Umi` `Antd` `Css-Module` `JSX` ...
+
 ## 2019.07 - 2022.02 前端设计师/设计二部/前端组
 
-#### `swiper` `vue` `Bootstrap` `jquery` `animate` ...
 
 - 负责根据销售接的项目，通过 ui 设计师设计图纸，按照设计文件还原网页
 - 负责通过与产品沟通调整项目内容，主要负责代码编写。
+
+#### `swiper` `vue` `Bootstrap` `jquery` `animate` ...
 
 # 项目经历
 
