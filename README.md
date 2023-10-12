@@ -108,8 +108,6 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=BastKakrolot&show_icons=true&theme=buefy&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BastKakrolot&layout=compact&theme=buefy&hide_border=true" alt="" /> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-### 📈 Activity Graph
+### 📈[Activity Graph](https://activity-graph.herokuapp.com/graph?username=BastKakrolot&theme=react-dark)
 
-![](https://activity-graph.herokuapp.com/graph?username=BastKakrolot&theme=react-dark)
-
-### ✨ 模板来自 [li-jia-nan](https://github.com/li-jia-nan) 十分感谢
+### ✨ 模板来自 [li-jia-nan](https://github.com/li-jia-nan) 十分感谢!!
