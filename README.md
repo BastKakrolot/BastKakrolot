@@ -24,7 +24,7 @@
 
 - 男 1997.07 大专
 - 邮箱 blackcellcode@gmail.com
-- 电话 182 0279 7144
+- 电话 18202797144
 - 微信 zzzs20
 
 # 社交信息
@@ -102,7 +102,7 @@
 
 ### 🏠 Blog:
 
-- **[https://juejin.cn/user/782508010775198/posts](https://juejin.cn/user/782508010775198/posts)**
+- **[https://juejin.cn/user/4441682706969917](https://juejin.cn/user/4441682706969917)**
 - **[https://blackcell.fun/](https://blackcell.fun/)**
 
 ### 📊 Stats:
