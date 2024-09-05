@@ -31,7 +31,7 @@
 
 - GitHub：https://github.com/BastKakrolot
 - 掘金：https://juejin.cn/user/4441682706969917
-- 博客：https://blackcell.fun/
+- 博客：https://next.blackcell.top/
 
 # 相关技能
 
