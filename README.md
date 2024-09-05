@@ -102,7 +102,7 @@
 ### 🏠 Blog:
 
 - **[https://juejin.cn/user/4441682706969917](https://juejin.cn/user/4441682706969917)**
-- **[https://blackcell.top/](https://blackcell.top/)**
+- **[https://next.blackcell.top/](https://next.blackcell.top/)**
 
 ### 📊 Stats:
 
