@@ -1,4 +1,4 @@
-![Glitch Art](https://glitch-art.vercel.app/api/simple?word={BastKakrolot%20Blackcell})
+![Glitch Art](https://glitch-art.vercel.app/api/simple?word={BastKakrolot})
 
 ### Hi there, I am BastKakrolot👋
 
